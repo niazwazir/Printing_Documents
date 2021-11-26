@@ -1,7 +1,0 @@
-Ajarn Cite Score and Impact Factor both are quality matrix to evaluate the quality of the journal.
-
-Cite Score is a quality metric Described by Scopus database (Scopus Database is a property of Elsevier publisher).
-
-Impact Factor Described by Web of Science Database.
-
-Tier1 Calculated by Scimago.
